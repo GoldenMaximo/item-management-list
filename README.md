@@ -10,7 +10,7 @@ I created this app following [Maximilian Schwarzmüller](https://www.udemy.com/u
 
 ## Demo
 
-[Demo](public/demo.gif)
+![](public/demo.gif)
 
 ## Meta
 
