@@ -8,8 +8,6 @@ export default function App() {
     const [isAddMode, setIsAddMode] = useState(false);
 
     const addItemHandler = item => {
-      debugger;
-      console.log(item);
       if (!item.length) {
         return;
       }
