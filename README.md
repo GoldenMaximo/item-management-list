@@ -1,7 +1,7 @@
 # Item List Manager
 > Very simple application, manages items in a list
 
-I created this app following [Maximilian Schwarzmüller](https://www.udemy.com/user/academind/)'s course: [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/)
+I created this app with the help of [Maximilian Schwarzmüller](https://www.udemy.com/user/academind/)'s course: [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/)
 
 ## Built With
 
